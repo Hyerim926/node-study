@@ -7,7 +7,7 @@
 - Database : `mysql`
 
 ### 설치 및 추가 파일
-> 모듈 설치
+> node_modules 설치
 
 `npm install`
 
